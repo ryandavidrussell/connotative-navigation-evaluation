@@ -155,6 +155,8 @@ connotative-navigation-evaluation/
 
 **This repository is a research scaffold. The annotation pack contains synthetic human anchors, not annotator-produced labels. No results in this repository should be cited as benchmark results.**
 
+**For annotators:** If you are here to score items, read `annotation_pack_v0.1/prompts/human_annotation_rubric.txt` and complete your independent scores before opening anything in `annotation_pack_v0.1/docs/`. The `calibration_examples.md` file contains gold labels and explained scores — it is calibration material for use *after* independent scoring, not a guide to read first. Opening it before scoring will invalidate your annotation.
+
 ---
 
 ## Near-Term Plan
