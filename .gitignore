@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node / harness
+node_modules/
+.env
+.env.*
+*.local
+
+# Databases — never commit live DB state
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw screenshots and identifiable source material
+screenshots/
+raw_data/
+private_notes/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output artifacts not yet reviewed for hygiene
+outputs/generated_answer_pairs.jsonl
