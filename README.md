@@ -42,7 +42,7 @@ This aligns with the Soraya governance principle: **semantic relevance is not op
 
 ## Relation to AuthorityBench
 
-[AuthorityBench](https://arxiv.org/abs/2506.03971) is the closest identified prior art. It asks whether LLMs can perceive source authority and use that authority to improve RAG. Its datasets include domain-level authority (DomainAuth), entity-level authority (EntityAuth), and a downstream RAG authority benchmark (RAGAuth).
+[AuthorityBench](https://arxiv.org/abs/2603.25092) (Yao, Zhang, and Bi, 2026) is the closest identified prior art. It asks whether LLMs can perceive source authority and use that authority to improve RAG. Its datasets include domain-level authority (DomainAuth), entity-level authority (EntityAuth), and a downstream RAG authority benchmark (RAGAuth).
 
 CNE asks a different question:
 
@@ -176,4 +176,4 @@ connotative-navigation-evaluation/
 
 ---
 
-*Private repository — seed scaffold, pre-publication. Do not cite.*
+*Research scaffold — pre-publication. Synthetic seed data only. Not yet a citable benchmark result.*
